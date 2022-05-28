@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FCFM\\2021-Agosto-Diciembre\\MAD\\Gpi_Water\\Gpi_Water\\Gpi_Water.csproj": {}
+  },
+  "projects": {
+    "D:\\FCFM\\2021-Agosto-Diciembre\\MAD\\Gpi_Water\\Gpi_Water\\Gpi_Water.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FCFM\\2021-Agosto-Diciembre\\MAD\\Gpi_Water\\Gpi_Water\\Gpi_Water.csproj",
+        "projectName": "Gpi_Water",
+        "projectPath": "D:\\FCFM\\2021-Agosto-Diciembre\\MAD\\Gpi_Water\\Gpi_Water\\Gpi_Water.csproj",
+        "packagesPath": "C:\\Users\\Miini\\.nuget\\packages\\",
+        "outputPath": "D:\\FCFM\\2021-Agosto-Diciembre\\MAD\\Gpi_Water\\Gpi_Water\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Miini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Aspose.PDF": {
+              "target": "Package",
+              "version": "[21.11.0, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[5.15.3, )"
+            },
+            "RJCodeAdvance.RJControls": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.PDF" Version="21.11.0" />
+    <PackageReference Include="CsvHelper" Version="27.2.0" />
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="FontAwesome.Sharp" Version="5.15.3" />
+    <PackageReference Include="RJCodeAdvance.RJControls" Version="1.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Ventanas\SubVentanas\ConHistorico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\SubVentanas\CapturarLectura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\SubVentanas\Recibos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\SubVentanas\ModificarTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\Zonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\RepGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\RepConsumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\SubVentanas\ModificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\SubVentanas\ModificarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\SubVentanas\ModificarContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\SubVentanas\AgregarTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\SubVentanas\AgregarContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas\SubVentanas\AgregarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

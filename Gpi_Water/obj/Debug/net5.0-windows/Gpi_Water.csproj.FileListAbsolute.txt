@@ -1,0 +1,177 @@
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.exe
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.deps.json
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.runtimeconfig.json
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.runtimeconfig.dev.json
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\ref\Gpi_Water.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.pdb
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Login.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Properties.Resources.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.csproj.GenerateResource.cache
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.AssemblyInfoInputs.cache
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.AssemblyInfo.cs
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.csproj.CoreCompileInputs.cache
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\ref\Gpi_Water.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.pdb
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.genruntimeconfig.cache
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\RJCodeAdvance.RJControls.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.dll.config
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Dapper.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Clientes.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Baneos.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Contratos.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Empleados.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Tarifas.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarCliente.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarEmpleado.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarContrato.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarTarifa.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarContrato.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarEmpleado.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarCliente.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Aspose.PDF.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\CsvHelper.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.ConHistorico.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.RepConsumo.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.RepGeneral.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.RepTarifas.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Zonas.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarTarifa.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.exe
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.dll.config
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.deps.json
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.runtimeconfig.json
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.runtimeconfig.dev.json
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\ref\Gpi_Water.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.pdb
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Aspose.PDF.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\CsvHelper.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Dapper.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\RJCodeAdvance.RJControls.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Properties.Resources.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Baneos.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Clientes.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.ConHistorico.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Consumos.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Contratos.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Empleados.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Login.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.RepConsumo.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.RepGeneral.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.RepTarifas.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarCliente.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarConsumo.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarContrato.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarEmpleado.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarTarifa.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarCliente.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarContrato.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarEmpleado.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarTarifa.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Tarifas.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Zonas.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.csproj.GenerateResource.cache
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.AssemblyInfoInputs.cache
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.AssemblyInfo.cs
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.csproj.CoreCompileInputs.cache
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\ref\Gpi_Water.dll
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.pdb
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.genruntimeconfig.cache
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Principal.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.Recibos.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water Modificado\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.csproj.AssemblyReference.cache
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Lecturas.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Principal.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.Recibos.resources
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.csproj.AssemblyReference.cache
+D:\FCFM\2021 Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.CapturarLectura.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.exe
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.dll.config
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.deps.json
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.runtimeconfig.json
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.runtimeconfig.dev.json
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\ref\Gpi_Water.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Gpi_Water.pdb
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Aspose.PDF.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\CsvHelper.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Dapper.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\RJCodeAdvance.RJControls.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Properties.Resources.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Baneos.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Clientes.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.ConHistorico.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Contratos.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Empleados.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Lecturas.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Login.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Principal.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.RepConsumo.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.RepGeneral.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.RepTarifas.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarCliente.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarContrato.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarEmpleado.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.AgregarTarifa.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.CapturarLectura.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarCliente.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarContrato.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarEmpleado.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.ModificarTarifa.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.SubVentanas.Recibos.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Tarifas.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.Ventanas.Zonas.resources
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.csproj.GenerateResource.cache
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.AssemblyInfoInputs.cache
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.AssemblyInfo.cs
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.csproj.CoreCompileInputs.cache
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\ref\Gpi_Water.dll
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.pdb
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.genruntimeconfig.cache
+D:\FCFM\2021-Agosto-Diciembre\MAD\Gpi_Water\Gpi_Water\obj\Debug\net5.0-windows\Gpi_Water.csproj.CopyComplete
